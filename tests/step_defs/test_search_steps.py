@@ -1,5 +1,4 @@
 from pytest_bdd import scenarios, when, then, given, parsers
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
 
