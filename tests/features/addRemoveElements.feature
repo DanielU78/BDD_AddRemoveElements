@@ -6,3 +6,4 @@ Feature: Herukoapp AddRemoveElements Testing
     Scenario: Click the Add Element button
     Given the AddRemoveElements home page is displayed
     When the user click AddElement button
+    Then the Delete button has appear
